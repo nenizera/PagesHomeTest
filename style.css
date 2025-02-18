@@ -1,0 +1,12 @@
+.A-center {
+    text-align: center;
+    width: auto;
+    margin-top:8%;
+}
+
+.A-left {
+    text-align: left;
+    width: auto;    
+    padding-left: 37%;
+    padding-right: 10%;
+}
